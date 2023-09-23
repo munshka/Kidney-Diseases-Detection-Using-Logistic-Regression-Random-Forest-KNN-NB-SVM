@@ -1,0 +1,101 @@
+BMI,AgeCategory,Diabetic,GenHealth,SleepTime,KidneyDisease
+26.29,65-69,No,Very good,8,No
+34.61,45-49,No,Excellent,8,No
+22.27,55-59,No,Excellent,6,No
+28.48,60-64,No,Excellent,6,No
+25.51,35-39,No,Good,7,No
+34.44,65-69,No,Very good,8,No
+36.68,65-69,Yes,Fair,8,No
+27.46,18-24,No,Excellent,6,No
+27.25,50-54,No,Excellent,6,No
+32.92,45-49,No,Excellent,8,No
+22.96,55-59,"No, borderline diabetes",Excellent,7,No
+25.83,65-69,No,Very good,8,No
+24.96,75-79,No,Very good,8,No
+23.06,50-54,No,Excellent,8,No
+22.22,60-64,Yes,Fair,8,No
+31.47,55-59,No,Very good,5,No
+27.89,80 or older,No,Good,10,No
+27.44,80 or older,No,Very good,7,No
+29.7,45-49,No,Good,5,No
+22.15,75-79,No,Excellent,7,No
+35.98,55-59,No,Good,6,No
+28.75,55-59,No,Very good,7,No
+29.26,40-44,No,Very good,8,No
+36.05,18-24,No,Good,10,No
+31.09,75-79,No,Very good,7,No
+30.9,70-74,No,Fair,8,No
+39.58,55-59,Yes,Very good,7,No
+24.21,70-74,No,Very good,9,No
+29.18,50-54,No,Good,6,No
+21.52,70-74,No,Good,7,No
+20.98,40-44,No,Good,8,No
+25.11,60-64,No,Very good,7,No
+29.05,55-59,No,Excellent,8,No
+28.13,75-79,No,Very good,6,No
+30.67,40-44,No,Very good,7,No
+33.29,30-34,No,Poor,7,No
+27.12,60-64,No,Good,8,No
+23.75,75-79,No,Good,8,No
+24.87,60-64,No,Very good,6,No
+27.84,65-69,No,Poor,8,No
+35.44,25-29,No,Fair,6,No
+31.06,40-44,Yes,Good,6,No
+23.06,60-64,No,Very good,3,No
+24.39,18-24,No,Very good,9,No
+24.41,40-44,No,Very good,5,No
+36.59,35-39,Yes,Very good,7,No
+27.32,60-64,No,Very good,7,No
+25.75,55-59,No,Very good,8,No
+29.04,70-74,No,Very good,7,No
+27.32,80 or older,No,Good,6,No
+21.95,70-74,Yes (during pregnancy),Excellent,8,No
+22.3,60-64,No,Excellent,7,No
+28.06,55-59,No,Good,6,No
+27.44,18-24,No,Fair,7,No
+23.4,65-69,No,Fair,7,No
+51.49,50-54,No,Good,5,No
+24.33,55-59,No,Excellent,6,No
+26.78,35-39,No,Good,7,No
+34.95,18-24,No,Excellent,7,No
+28.9,80 or older,No,Very good,8,No
+36.54,55-59,No,Fair,5,No
+20.36,35-39,No,Excellent,7,No
+27.26,55-59,No,Excellent,8,No
+31.16,55-59,Yes,Fair,7,No
+36.61,75-79,Yes,Fair,7,No
+23.63,60-64,Yes,Good,6,No
+27.12,18-24,No,Good,8,No
+23.69,55-59,No,Good,7,No
+21.02,25-29,No,Excellent,8,No
+27.48,65-69,No,Excellent,8,No
+19.26,65-69,No,Very good,9,No
+37.31,40-44,Yes,Good,6,No
+33.52,60-64,No,Very good,7,No
+23.91,40-44,No,Good,7,No
+86.33,55-59,Yes,Fair,8,Yes
+42.09,40-44,No,Excellent,6,No
+19.2,70-74,No,Very good,7,No
+27.57,25-29,No,Excellent,7,No
+27.12,40-44,No,Good,8,No
+22.73,70-74,No,Fair,7,Yes
+25.68,30-34,No,Very good,6,No
+30.11,70-74,Yes,Fair,6,No
+26.87,70-74,No,Excellent,6,No
+22.89,30-34,No,Good,6,No
+28.06,45-49,No,Very good,6,No
+26.95,75-79,No,Excellent,8,No
+35,18-24,No,Excellent,6,No
+18.94,65-69,No,Good,6,No
+27.89,40-44,No,Excellent,7,No
+46.86,30-34,No,Good,6,No
+21.52,70-74,No,Very good,8,No
+25.79,25-29,No,Good,7,No
+35.94,30-34,No,Fair,5,No
+32.98,18-24,No,Very good,7,No
+29.26,30-34,No,Very good,6,No
+37.5,65-69,No,Good,6,No
+24.28,30-34,No,Excellent,7,No
+26.45,80 or older,Yes,Fair,9,No
+20.09,80 or older,No,Very good,10,No
+31.57,50-54,No,Good,7,No
